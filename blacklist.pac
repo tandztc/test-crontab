@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.1 https://github.com/JinnLynn/genpac
- * Generated: Sun, 17 Apr 2016 22:00:01 GMT
- * GFWList Last-Modified: Thu, 14 Apr 2016 11:41:58 +0800
+ * Generated: Mon, 18 Apr 2016 22:00:01 GMT
+ * GFWList Last-Modified: Mon, 18 Apr 2016 10:02:08 +0800
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -155,6 +155,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?azubu\\.tv", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?barracuda\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?beeg\\.com", 
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bloombergview\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?boysmaster\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?carfax\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?centauro\\.com\\.br", 
@@ -297,6 +298,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?recaptcha\\.net", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?registry\\.google", 
             "^http://sipml5\\.org/", 
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?webmproject\\.org", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?withgoogle\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?youtu\\.be", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?youtube\\.com", 
@@ -465,6 +467,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bignews\\.org", 
             "^http://billypan\\.com/wiki", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?billywr\\.com", 
+            "^http://bit\\.do", 
             "^http://bit\\.ly", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bitcointalk\\.org", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bitshare\\.com", 
@@ -1002,6 +1005,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hasaowall\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hdtvb\\.net", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?heartyit\\.com", 
+            "^http://hec\\.su", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hecaitou\\.net", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hechaji\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?heeact\\.edu\\.tw", 
@@ -1075,6 +1079,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hrw\\.org", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hsjp\\.net", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hsselite\\.com", 
+            "^http://hst\\.net\\.tw", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?htkou\\.net", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?htmldog\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?huanghuagang\\.org", 
@@ -1291,6 +1296,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?makemymood\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?marines\\.mil", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?martau\\.com", 
+            "^http://blog\\.martinoei\\.com", 
             "^http://martsangkagyuofficial\\.org", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?marxist\\.net", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?matainja\\.com", 
@@ -2069,7 +2075,6 @@ var rules = [
             "^http://hkcoc\\.weather\\.com\\.hk", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hudatoriq\\.web\\.id", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?web2project\\.net", 
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?webmproject\\.org", 
             "^http://www\\.websnapr\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wefightcensorship\\.org", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?weiming\\.info", 
@@ -2211,7 +2216,6 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?zinio\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ziplib\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?zkaip\\.com", 
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?zlib\\.net/", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?zonaeuropa\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?zootool\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?zuo\\.la", 
@@ -2425,6 +2429,7 @@ var rules = [
             "*.bignews.org*", 
             "*.bigsound.org*", 
             "*bipic.net*", 
+            "*.bit.do*", 
             "*.bit.ly*", 
             "*.bitshare.com*", 
             "*bitsnoop.com*", 
@@ -2910,6 +2915,7 @@ var rules = [
             "*.freedomchina.info*", 
             "*.freedomhouse.org*", 
             "*.freedomsherald.org*", 
+            "*.freefq.com*", 
             "*.freefuckvids.com*", 
             "*.freegao.com*", 
             "*.free-hada-now.org*", 
@@ -3055,6 +3061,7 @@ var rules = [
             "*.hanunyi.com*", 
             "*.harunyahya.com*", 
             "*have8.com*", 
+            "*.hec.su*", 
             "*.hecaitou.net*", 
             "*.hechaji.com*", 
             "*hellotxt.com*", 
@@ -4396,6 +4403,7 @@ var rules = [
             "*.wdf5.com*", 
             "*.wearn.com*", 
             "*webbang.net*", 
+            "*.webfreer.com*", 
             "*weblagu.com*", 
             "*webs-tv.net*", 
             "*websitepulse.com/help/testtools.china-test.html*", 
@@ -4586,6 +4594,7 @@ var rules = [
             "*.ziddu.com/download*", 
             "*zinio.com*", 
             "*.zkaip.com*", 
+            "*realforum.zkiz.com*", 
             "*zmw.cn*", 
             "*zomobo.net*", 
             "*.zonaeuropa.com*", 
