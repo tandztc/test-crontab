@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.1 https://github.com/JinnLynn/genpac
- * Generated: Sun, 08 May 2016 22:00:03 GMT
- * GFWList Last-Modified: Sat, 07 May 2016 12:58:14 +0800
+ * Generated: Mon, 09 May 2016 22:00:01 GMT
+ * GFWList Last-Modified: Mon, 09 May 2016 12:01:07 +0800
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -222,6 +222,8 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?madonna-av\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mangafox\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mangafox\\.me", 
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?matome-plus\\.com", 
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?matome-plus\\.net", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mattwilcox\\.net", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?metarthunter\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mfxmedia\\.com", 
@@ -415,6 +417,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?akiba-online\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?al-qimmah\\.net", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?alabout\\.com", 
+            "^http://alanhou\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?alasbarricadas\\.org", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?alforattv\\.net", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?alkasir\\.com", 
@@ -493,6 +496,8 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bannedbook\\.org", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?barnabu\\.co\\.uk", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bayvoice\\.net", 
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bbchat\\.tv", 
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bb-chat\\.tv", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bbcchinese\\.com", 
             "^http://bbc\\.in", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bbsfeed\\.com", 
@@ -1064,6 +1069,7 @@ var rules = [
             "^http://harunyahya\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hasaowall\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hdtvb\\.net", 
+            "^http://hdzog\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?heartyit\\.com", 
             "^http://hec\\.su", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hecaitou\\.net", 
@@ -1158,7 +1164,6 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hwayue\\.org\\.tw", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hwinfo\\.com", 
             "^http://fang-lizhi\\.hxwk\\.org/", 
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hypeshell\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hyperrate\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?i1\\.hk", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?i2p2\\.de", 
@@ -2249,6 +2254,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yahoo\\.com\\.hk", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yakbutterblues\\.com", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yam\\.com", 
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yam\\.org\\.tw", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yasni\\.co\\.uk", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yasukuni\\.or\\.jp", 
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yeahteentube\\.com", 
@@ -2423,6 +2429,7 @@ var rules = [
             "*a248.e.akamai.net*", 
             "*voa-11.akacast.akamaistream.net*", 
             "*.akademiye.org/ug*", 
+            "*.alanhou.com*", 
             "*alexlur.org*", 
             "*aliengu.com*", 
             "*.alldrawnsex.com*", 
@@ -2802,6 +2809,7 @@ var rules = [
             "*.cumlouder.com*", 
             "*.cusu.hk*", 
             "*.cw.com.tw*", 
+            "*cyberghostvpn.com*", 
             "*cytode.us*", 
             "*cl.d0z.net*", 
             "*.d100.net*", 
@@ -2925,6 +2933,7 @@ var rules = [
             "*.eksisozluk.com*", 
             "*electionsmeter.com*", 
             "*.eltondisney.com*", 
+            "*.emaga.com/info/3407*", 
             "*emilylau.org.hk*", 
             "*.empfil.com*", 
             "*.emule-ed2k.com*", 
@@ -3209,6 +3218,7 @@ var rules = [
             "*.harunyahya.com*", 
             "*bbs.hasi.wang*", 
             "*have8.com*", 
+            "*.hdzog.com*", 
             "*.hec.su*", 
             "*.hecaitou.net*", 
             "*.hechaji.com*", 
@@ -3302,6 +3312,7 @@ var rules = [
             "*.huffingtonpost.com/rebiya-kadeer*", 
             "*huiyi.in*", 
             "*humanrightsbriefing.org*", 
+            "*.hurriyet.com.tr*", 
             "*hutong9.net*", 
             "*hxwq.org*", 
             "*.i-cable.com*", 
